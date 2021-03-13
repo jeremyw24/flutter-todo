@@ -47,4 +47,4 @@ That's it! Your project should now be able to communicate with Firebase.
 3. Firebase will create all the necessary configurations. 
 4. Copy your clientID and paste into /web/index.html in the head under `google-signin-client_id`
 
-Authentication should now be functional, provided you serve the local build on porrt 5000. 
+Authentication should now be functional, provided you serve the local build on port 5000. 
